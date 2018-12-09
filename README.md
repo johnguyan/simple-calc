@@ -4,7 +4,7 @@ Basic calculator, but still better at math than me
 
 ## Screenshot
 
-![Calculator Screenshot](/assets/img/screenshot.png.png)
+![Desktop view.](/assets/img/screenshot.png.png)
 
 # License
 Copyright (C) 2018 John Guyan
